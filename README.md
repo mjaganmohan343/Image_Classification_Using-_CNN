@@ -11,3 +11,4 @@ We designed a 7-layer CNN (5 convolutional layers + 2 fully connected layers) th
 Reference  -  NIPS 2012 paper on  ImageNet Classification with Deep Convolutional  Neural Networks(it actually comsists of 10,000 classes and 16 million images to Large to handle on a PC).
 
 **DATASET(CIFAR-10)** - https://s3.amazonaws.com/fast-ai-imageclas/cifar10.tgz
+
